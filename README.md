@@ -1,6 +1,6 @@
 ### Hi there, I'm Liang Shaofeng👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=l-sf&show_icons=true" alt="logo" height="140" width="450" align="right" style="margin: 5px; margin-bottom: 0px;" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=l-sf&show_icons=true" alt="logo" height="140" width="450" align="right" style="margin: 5px; margin-bottom: 5px;" /> 
 
 - 🎓 Master degree in UESTC
 - 🔭 Deployment、Computer Vision、Object Tracking
